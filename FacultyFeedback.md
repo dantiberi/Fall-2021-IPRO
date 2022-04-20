@@ -70,6 +70,12 @@
 - Final Presentation Dry Run
 
 ## Week 14 ##
+- Every team member needs to complete the peer review survey before the end of class - https://forms.gle/UFVs9smkmLVf7KRZ8
+- Final presentation template: https://github.com/mschray/IPro497Sample/blob/main/Course%20Content/Final%20Presentation%20Template.pptx
+- Is it ONLY Algebra game?  What about trig?  Pre-calc?
+- Like the logo
+- Love group progress
+- Nice "thank you, Nam".  Good transition handoff.
 
 ## Week 15 Nov 30 ##
 
